@@ -1,0 +1,7 @@
+pheno,pheno_abbv,fullsummary,N,N_cases,N_controls
+Atrial_fibrillation,AF,AF.txt.gz,316342,63532,252810
+Angina,Angina,Angina.txt.gz,460759,44588,416171
+Chronic_artery_disease,CAD,CAD.txt.gz,184305,60801,123504
+Heart_failure,HF,HF.txt.gz,500348,37653,462695
+Stroke,STK,STK.txt.gz,521612,67162,454450
+Peripheral_artery_disease,PAD,PAD.txt.gz,466259,3153,463106
